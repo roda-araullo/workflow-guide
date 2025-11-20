@@ -46,14 +46,7 @@ Mainly, a commit message has these components — *code version, message type, p
 
 **A. Code Version**
 
-I call it the code's stages of refinement.
-<br/>
-		<code>
-			git commit -m "<b>type</b> -> <b>(optional_scope)</b> : purpose"
-		</code>
-<br/>
-
-I categorize commit messages into several types. It's like a gist of what the commit message is
+Create a new branch per code version. Then, make a PR to merge it to main. This way, I will be able to focus on inspecting the code's quality.
 
 **B. Message types**
 <br/>
@@ -77,7 +70,7 @@ It's the summary of what happened in the code. Use imperative voice to make it s
 
 <prep>
 	<code>
-		file_name-> *(optional scope)* | code_version | message_type  : purpose
+		git commit -m "<b>file_name</b>/<b>message_type(optional_scope)</b> : purpose"
 	</code>
 </prep>
 
