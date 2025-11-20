@@ -17,3 +17,11 @@ I converted the files to .md from .html. It's easier to fill with details for no
 - Emphasize on ***purpose***
 
 3. Stick with American English in documentation to ensure global consistency.
+
+2025-11-20
+
+1. Create a new branch every code version.
+2. Update git commit message format to *file_name/message type(optional_scope): purpose*
+
+**REASON:**
+- Updated format is more commonly used. It increases readability by familiarity.
