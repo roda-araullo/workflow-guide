@@ -25,3 +25,15 @@ I converted the files to .md from .html. It's easier to fill with details for no
 
 **REASON:**
 - Updated format is more commonly used. It increases readability by familiarity.
+
+2026-02-18
+
+1. Started to read ***" The Complete Middle School Study Guide: Everything You Need to Ace Computer Science and Coding In One Big Fat Notebook"*** by Grant Smith. 
+
+**REASON**
+- To strengthen my CS foundation — mainly software to hardware compatibility.
+
+2.  I sorted my Developer Progress Notes starting March every year.
+
+**REASON**
+- I was born in March, a month in which I reflect on my life, and being a developer has become a significant part of who I am.
