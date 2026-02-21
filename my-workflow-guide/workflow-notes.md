@@ -37,3 +37,9 @@ I converted the files to .md from .html. It's easier to fill with details for no
 
 **REASON**
 - I was born in March, a month in which I reflect on my life, and being a developer has become a significant part of who I am.
+
+
+2026-02-21
+
+1. Use APA style to cite my references.
+2. Remove file name in my previous git commit format.
