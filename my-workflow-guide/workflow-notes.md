@@ -18,6 +18,8 @@ I converted the files to .md from .html. It's easier to fill with details for no
 
 3. Stick with American English in documentation to ensure global consistency.
 
+<hr/>
+
 2025-11-20
 
 1. Create a new branch every code version.
@@ -25,6 +27,8 @@ I converted the files to .md from .html. It's easier to fill with details for no
 
 **REASON:**
 - Updated format is more commonly used. It increases readability by familiarity.
+
+<hr/>
 
 2026-02-18
 
@@ -38,8 +42,11 @@ I converted the files to .md from .html. It's easier to fill with details for no
 **REASON**
 - I was born in March, a month in which I reflect on my life, and being a developer has become a significant part of who I am.
 
+<hr/>
 
 2026-02-21
 
 1. Use APA style to cite my references.
 2. Remove file name in my previous git commit format.
+
+<hr/>
