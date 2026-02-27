@@ -16,4 +16,6 @@ I heard an answer to a similar type of question from Dr. K — a well-respected 
  :woman_health_worker: My nursing side of the brain steep in to the coding side unconsciously. :laughing:
 
 
-![Nursing_Code_Plan_Format](/home/mimishaw/dev-projects/workflow-guide/images/nursing_code_plan.png)
+![Nursing_Code_Plan_Format][nursing_code_plan.png]
+
+[nursing_code_plan.png]: /home/mimishaw/dev-projects/workflow-guide/images/nursing_code_plan.png "Nursing Code Plan"
