@@ -17,3 +17,11 @@ I heard an answer to a similar type of question from Dr. K — a well-respected 
 
 
 <img src = "../my-workflow-guide/images/nursing_code_plan.png" alt = "Nursing Code Plan format" width = "200px" height = "200px">
+
+### Flowchart
+
+Each symbol has its own meaning.
+
+<img src = "../my-workflow-guide/images/flowchart-guide_2026-02.png" alt = "Symbol guide in Flowchart" width = "200px" height = "200px">
+
+Source: https://techdifferences.com/flowchart-vs-pseudocode.html
