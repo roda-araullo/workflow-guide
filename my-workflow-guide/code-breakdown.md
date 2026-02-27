@@ -18,4 +18,5 @@ I heard an answer to a similar type of question from Dr. K — a well-respected 
 
 ![Nursing_Code_Plan_Format][nursing_code_plan.png]
 
-[nursing_code_plan.png]: /home/mimishaw/dev-projects/workflow-guide/images/nursing_code_plan.png "Nursing Code Plan"
+[nursing_code_plan.png]: /home/mimishaw/dev-projects/workflow-guide/my-workflow-guide/images/nursing_code_plan.png "Nursing Code Plan"
+
