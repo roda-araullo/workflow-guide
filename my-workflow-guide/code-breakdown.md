@@ -16,4 +16,4 @@ I heard an answer to a similar type of question from Dr. K — a well-respected 
  :woman_health_worker: My nursing side of the brain steep in to the coding side unconsciously. :laughing:
 
 
-<img src = "../my-workflow-guide/images/nursing_code_plan.png" alt = "Nursing Code Plan format" width = "20rem" height = "20rem">
+<img src = "../my-workflow-guide/images/nursing_code_plan.png" alt = "Nursing Code Plan format" width = "200rem" height = "200rem">
