@@ -1,13 +1,15 @@
 # ABOUT ME
 
-Hello, I’m Roda! :wave: A Filipina life-learner from New Zealand. I have a diverse background that includes nursing, clinical administration, and office operations in a health technology company.
+Hi, I’m Roda :wave:. Thanks for dropping by! I’m from the Philippines :philippines: and currently based in New Zealand :new_zealand:. 
 
-I'm a hands-on inquisitive person. Once I get curious, I would work on it. It even extends to my hobbies such as sewing (my latest hobby), embroidery, miniatures. My curiousity drives me to different fields of learning.
+I’d describe myself as an :bulb: inquisitive person. Once something catches my interest, I tend to research deeply. And if it sparks a project :rocket:, I make sure to see it through to completion. :tea:I learn whether it succeeds or not: a working result gives me a useful tool, and a failure teaches me what to improve. Moving across the work cycle spectrum is better than being still.
 
-As a colleague, my p
+That mindset is reflected in my diverse experience, including nursing :medical_symbol:, clinical administration :pen:, and office operations :woman_office_worker: within a health technology company.
 
-My greatest strength is my ability to illustrate complex processes by connecting them to real-life scenarios that resonate with the listener. Throughout my career, I have consistently acted as a 🌉 bridge in 🧑‍🤝‍🧑🧑‍🤝‍🧑 collaborations, using industry jargon with colleagues while providing clear explanations to patients and clients.
+I bring the same approach to my hobbies — sewing, embroidery, lettering, and making miniatures — because they help me keep learning.
 
-I believe that a great app design is rooted in real-world data structures and should be accessible across all operating systems and legacy devices.
+My strength is explaining complex ideas clearly and in a way that the target audience can relate to. I help teams stay aligned by translating technical concepts for colleagues and communicating them in everyday language to patients and clients.
 
-Preserving data integrity has always been the core of my work— which has inspired me to focus on data management as a software developer.
+I believe strong app design is based on real-world data structures and should perform reliably across operating systems, including older devices.
+
+Throughout my career, data integrity has been a constant priority, and it continues to guide my software development work, particularly in data management.
