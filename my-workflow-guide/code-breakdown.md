@@ -24,4 +24,6 @@ Each symbol has its own meaning.
 
 <img src = "../my-workflow-guide/images/flowchart-guide_2026-02.png" alt = "Symbol guide in Flowchart" width = "200px" height = "200px">
 
-Source: https://techdifferences.com/flowchart-vs-pseudocode.html
+Source: 
+Differences Between Flowchart and Pseudocode.
+    Retrieved on February 27, 2026, from https://techdifferences.com/flowchart-vs-pseudocode.html
