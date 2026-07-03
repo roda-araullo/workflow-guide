@@ -53,4 +53,6 @@ I converted the files to .md from .html. It's easier to fill with details for no
 
 2026-02-27
 
-1. Discovered flowchart's symbols meaning from cited webpage — which is also the same as The Complete Middle School Study Guide: Everything You Need to Ace Computer Science and Coding In Ome Big Fat Notebook.
+1. Discovered flowchart's symbols meaning from cited webpage — which is also the same as The Complete Middle School Study Guide: Everything You Need to Ace Computer Science and Coding In One Big Fat Notebook.
+
+<hr/>
