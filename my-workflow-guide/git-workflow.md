@@ -10,14 +10,14 @@ I strive for my *code* to possess three key features: *feasibility, customizabil
 
 ***Code versions***
 
-- <u>*basic:*</u> the simplest, untidiest, and most dumbed down version.*(feasibility)*
-- <u>*modular:*</u> separate concerns *(customizability)*
+- <u>basic:</u> the simplest, untidiest, and most dumbed down version.*(feasibility)*
+- <u>modular:</u> separate concerns *(customizability)*
 	_ETC: Easier To Change_
 	_SRP: Single Responsibility Principle:_ 1 change : 1 module
 
-- <u>*advanced: optional*:</u> make the code more concise *(customizability)*
-- <u>*testing:*</u> unit test *(compatibility)*
-- <u>*final:*</u> most polished version. ready to be submitted to be reviewed or merged to main.*(compatibility)*
+- <u>advanced: optional:</u> make the code more concise *(customizability)*
+- <u>testing:</u> unit test *(compatibility)*
+- <u>final:</u> most polished version. ready to be submitted to be reviewed or merged to main.*(compatibility)*
 
 :tea: This structured approach helps me concentrate on 1 intention at a time.**As my code transitions from one version to the next, I am prompted to reflect on the code and its connection to the project's purpose**. Additionally, it becomes easier for me to resist the lure of chasing endless "what-ifs" and adding "just one more feature.
 
